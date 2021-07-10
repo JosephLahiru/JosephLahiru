@@ -1,6 +1,6 @@
 # Yellow there 👋👋👋
 
-![](https://github.com/JosephLahiru/JosephLahiru/blob/main/res/back2.png)
+![](https://github.com/JosephLahiru/JosephLahiru/blob/main/res/back2.gif)
 
 ### I am Joeph Rasanjana.
 ### I am a programmer who loves to make robots with AI.
