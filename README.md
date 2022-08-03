@@ -11,3 +11,5 @@
 - 🔭 I’m currently studying on [💻 University Of Ruhuna](https://www.ruh.ac.lk/),
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about anything
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLahiru&layout=compact)](https://github.com/JosephLahiru)
