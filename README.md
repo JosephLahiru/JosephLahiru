@@ -12,4 +12,4 @@
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about anything
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLahiru&layout=compact)](https://github.com/JosephLahiru)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLahiru&layout=compact&theme=radical)](https://github.com/JosephLahiru)
