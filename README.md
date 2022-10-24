@@ -14,4 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLahiru&layout=compact&theme=radical)](https://github.com/JosephLahiru)
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JosephLahiru&theme=dark&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JosephLahiru&theme=radical&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" />
