@@ -11,6 +11,9 @@
 - 🔭 I’m currently studying at [💻 University Of Ruhuna](https://www.ruh.ac.lk/),
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about anything
+
+<a href="https://www.buymeacoffee.com/joerasa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
