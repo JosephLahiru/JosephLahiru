@@ -34,9 +34,9 @@
 [![@theAlphaGuardian's Holopin board](https://holopin.me/theAlphaGuardian)](https://holopin.io/@theAlphaGuardian)
 <hr/>
 
-[![JosephLahiru's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JosephLahiru&theme=xcode)](https://git.io/JosephLahiru)
+<!-- [![JosephLahiru's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JosephLahiru&theme=xcode)](https://git.io/JosephLahiru)
 
-<hr/>
+<hr/>-->
 <h3 align="center">Visitor Count</h3>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/JosephLahiru/count.svg" style="height:auto; width:300px;"/><br/>
