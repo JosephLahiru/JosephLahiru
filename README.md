@@ -6,14 +6,14 @@
   <h3>I am a programmer who loves to make robots with AI.</h3>
 
   <img align="center" src="https://github.com/JosephLahiru/JosephLahiru/blob/main/res/chappie.gif">
-
+<p>
   <ul type="none">
     <li>🔭 I’m currently studying at <a href="https://www.ruh.ac.lk/">💻 University Of Ruhuna</a>,</li>
-    <li>👯 I’m looking to collaborate on Python projects</li>
+    <li>👯 I’m looking to collaborate on <b>Python</b> projects</li>
     <li>💬 Ask me about anything</li>
   </ul>
-
-  <a href="https://www.buymeacoffee.com/joerasa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+  <!--<a href="https://www.buymeacoffee.com/joerasa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">--</a>-->
 </div>
 <hr/>
 
