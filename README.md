@@ -43,9 +43,9 @@
 </p>
 <hr/>
 
-<!--<p align="center">
+<p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=JosephLahiru&theme=hacker&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" />
-</p>-->
+</p>
 
 <p align="center">
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLahiru&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="JosephLahiru"/>
