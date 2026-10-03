@@ -62,7 +62,7 @@
 <hr/>-->
 <h3 align="center">Visitor Count</h3>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/JosephLahiru/count.svg" style="height:auto; width:300px;"/><br/>
+  <img src="https://visitor-counter.joseph-rasanjana1.workers.dev/count.svg" style="height:auto; width:300px;" alt="Visitor Count"/><br/>
   <img src="https://user-images.githubusercontent.com/44818405/202769536-94448e9f-6f66-4d40-8293-c5ecbae6d4ce.png" style="height:auto; width:600px;"/>
 </p>
 <hr/>
