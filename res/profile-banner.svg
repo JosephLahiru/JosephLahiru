@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract circuit banner</title>
+  <desc id="desc">A dark navy banner with lime and teal circuit lines and a small robot face.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="0.55" stop-color="#101c2b"/><stop offset="1" stop-color="#0b1420"/></linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b8ff5c"/><stop offset="1" stop-color="#50d8c5"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263749" stroke-width="0.6" opacity="0.65"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  <rect width="1000" height="220" rx="18" fill="url(#background)"/>
+  <rect width="1000" height="220" rx="18" fill="url(#grid)"/>
+  <path d="M0 149H119L154 114H286M0 187H213L254 146H368M1000 52H852L810 94H713M1000 167H856L822 133H754" fill="none" stroke="url(#signal)" stroke-width="2" opacity="0.65"/>
+  <path d="M0 149H119L154 114H286M1000 52H852L810 94H713" fill="none" stroke="#aaff75" stroke-width="7" opacity="0.35" filter="url(#glow)"/>
+  <g fill="#b8ff5c"><circle cx="286" cy="114" r="5"/><circle cx="368" cy="146" r="5"/><circle cx="713" cy="94" r="5"/><circle cx="754" cy="133" r="5"/></g>
+  <g fill="#50d8c5" opacity="0.8"><circle cx="53" cy="149" r="3"/><circle cx="935" cy="52" r="3"/><circle cx="924" cy="167" r="3"/></g>
+  <g transform="translate(439 35)">
+    <rect x="0" y="22" width="122" height="120" rx="30" fill="#142b35" stroke="#65e2b8" stroke-width="3"/>
+    <rect x="18" y="49" width="86" height="55" rx="17" fill="#0b1620" stroke="#3b716b" stroke-width="2"/>
+    <circle cx="45" cy="76" r="8" fill="#b8ff5c"/><circle cx="77" cy="76" r="8" fill="#b8ff5c"/>
+    <path d="M48 95Q61 104 74 95" fill="none" stroke="#50d8c5" stroke-width="3" stroke-linecap="round"/>
+    <path d="M61 22V9" stroke="#65e2b8" stroke-width="3"/><circle cx="61" cy="6" r="5" fill="#b8ff5c"/>
+    <path d="M0 66H-12M122 66H134" stroke="#65e2b8" stroke-width="4" stroke-linecap="round"/>
+    <rect x="37" y="142" width="48" height="9" rx="4" fill="#50d8c5" opacity="0.7"/>
+  </g>
+  <rect x="0.75" y="0.75" width="998.5" height="218.5" rx="17.25" fill="none" stroke="#2a414d" stroke-width="1.5"/>
+</svg>
